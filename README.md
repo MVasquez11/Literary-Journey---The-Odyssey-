@@ -13,13 +13,13 @@ Open `dist/index.html` in a modern browser. It works directly from the folder, w
 - Seven source-based literary analysis drafts, each with five headed sections, a literary lens, passage references, and source links.
 - Seven credited book images, revealed on card hover or keyboard focus and shown inline on touch screens. Covers and title pages are representative editions; analysis references identify the text actually used.
 - A complete favorite masterpiece page for *The Odyssey* by Homer, with a sourced overview, thematic background, personal reasons, character insights, and connections to Marnel's interests and BSIT goals.
-- Four areas for the learning summary and all five personal reflection guide questions.
+- A complete learning summary across four areas, connecting the seven readings, literary lenses, human experiences, and skills for study and IT work; five personal reflection guide questions remain available.
 - A sources page with primary-text references, artwork credit, and a full uncropped reproduction.
 - Responsive navigation, keyboard focus states, skip navigation, and reduced-motion support.
 
 ## Add personal content later
 
-The profile uses the student's supplied details and photograph. The seven literary analyses were prepared with AI writing assistance for review against the student's prior course outputs and assigned editions. The favorite discussion develops the student's stated interests and goals without inventing personal events. The learning summary and reflection remain pending.
+The profile uses the student's supplied details and photograph. The seven literary analyses were prepared with AI writing assistance for review against the student's prior course outputs and assigned editions. The favorite discussion develops the student's stated interests and goals without inventing personal events. The learning summary draws connections across the portfolio. The personal reflection remains pending.
 
 Use `CONTENT-GUIDE.md` to gather remaining information. Edit plain-text values in `dist/content.js`; blank values display prompts. Separate paragraphs with two newline characters (`\n\n`). Each analysis has a title, attribution, lens, summary, headed `sections`, and `references`. A legacy `text` field is also supported for a plain essay. The supplied student photograph is included in `dist/assets/`.
 

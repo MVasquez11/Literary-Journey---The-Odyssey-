@@ -1,6 +1,6 @@
 # Content to provide for your literary portfolio
 
-This is **My Literary Journey: A Great Books Digital Portfolio**. Your favorite literary masterpiece is **The Odyssey by Homer**. The student profile and favorite discussion are complete, and seven source-based analyses are available. The learning summary and personal reflection still need your input.
+This is **My Literary Journey: A Great Books Digital Portfolio**. Your favorite literary masterpiece is **The Odyssey by Homer**. The student profile, favorite discussion, and learning summary are complete, and seven source-based analyses are available. The personal reflection still needs your input.
 
 ## 1. Student profile
 
@@ -36,7 +36,7 @@ The **Odyssey by Homer** page now contains a full discussion based on your inter
 
 ## 4. Summary of learning
 
-Describe the knowledge, concepts, and skills you gained throughout Great Books. Consider works from different historical periods and cultures; the literary lenses you used; literature's connection with human experiences, beliefs, and societies; and your development in critical thinking, interpretation, and analysis.
+The learning summary now covers historical and cultural understanding, literary approaches, human experiences and societies, and critical and analytical skills. Its examples draw on all seven portfolio readings and connect the learning to BSIT goals. Personalize further with additional details from your actual course experience if desired.
 
 ## 5. Personal reflection
 
