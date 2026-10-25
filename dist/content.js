@@ -51,7 +51,16 @@ window.PORTFOLIO = {
           "note": "Scholarly background on the complementary forms of heroism represented by Odysseus and Achilles, especially sections 47–52."
         }
       ],
-      "status": "draft"
+      "status": "draft",
+      "cover": {
+        "src": "assets/books/odyssey.jpg",
+        "alt": "Orange 1967 cover of The Odyssey of Homer, translated by Richmond Lattimore",
+        "label": "The Odyssey of Homer — Richmond Lattimore translation, 1967 dust jacket",
+        "credit": "Cover design by Guy Fleming. Wikimedia Commons identifies the scan as public domain in the USA (PD-US-dust-jacket). Illustrative edition; the analysis cites Samuel Butler.",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Odyssey_Of_Homer_Richmond_Lattimore_first_edition_1967.jpg",
+        "note": "Representative Lattimore edition; the analysis uses Samuel Butler.",
+        "originalImageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d1/The_Odyssey_Of_Homer_Richmond_Lattimore_first_edition_1967.jpg"
+      }
     },
     {
       "title": "The Iliad",
@@ -93,7 +102,16 @@ window.PORTFOLIO = {
           "note": "Scholarly background on Achilles’s heroic identity and the recognition of another person’s suffering, especially sections 43–48."
         }
       ],
-      "status": "draft"
+      "status": "draft",
+      "cover": {
+        "src": "assets/books/iliad.jpg",
+        "alt": "Blue and gold historical cover of The Iliad of Homer, illustrated by Henri Motte",
+        "label": "The Iliad of Homer — George Chapman translation, illustrated by Henri Motte",
+        "credit": "Historic cover scan via Project Gutenberg, eBook 51355. Public domain in the USA.",
+        "sourceUrl": "https://www.gutenberg.org/ebooks/51355",
+        "note": "Representative Chapman edition; the analysis uses Samuel Butler.",
+        "originalImageUrl": "https://www.gutenberg.org/files/51355/51355-h/images/cover.jpg"
+      }
     },
     {
       "title": "Psalms 23 & 91",
@@ -145,7 +163,16 @@ window.PORTFOLIO = {
           "url": "https://bible.usccb.org/bible/psalms/91",
           "note": "USCCB notes identify the final divine assurance. Supplementary context."
         }
-      ]
+      ],
+      "cover": {
+        "src": "assets/books/psalms.jpg",
+        "alt": "Jeweled gold treasure binding of a Psalter manuscript, depicting Christ and the evangelists",
+        "label": "Treasure binding of a Psalter — Walters Art Museum, W.16",
+        "credit": "Walters Art Museum Illuminated Manuscripts, via Wikimedia Commons. CC0 1.0.",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Treasure_binding_of_psalter_at_Walters_Art_Museum.jpg",
+        "note": "Representative Psalter binding, with medieval and later elements; not a cover of the KJV edition used in the analysis.",
+        "originalImageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Treasure_binding_of_psalter_at_Walters_Art_Museum.jpg"
+      }
     },
     {
       "title": "The Tale of Genji",
@@ -187,7 +214,16 @@ window.PORTFOLIO = {
           "url": "https://www.metmuseum.org/met-publications/the-tale-of-genji-a-japanese-classic-illuminated",
           "note": "The Metropolitan Museum of Art, 2019. Scholarly cultural and visual context; a free catalogue PDF is available."
         }
-      ]
+      ],
+      "cover": {
+        "src": "assets/books/genji.jpg",
+        "alt": "Red patterned cover of The Tale of Genji by Lady Murasaki, translated by Arthur Waley",
+        "label": "The Tale of Genji — Arthur Waley, 1925",
+        "credit": "Project Gutenberg eBook 66057. Transcriber-created cover using original cover and title-page elements; placed in the public domain.",
+        "sourceUrl": "https://www.gutenberg.org/files/66057/66057-h/66057-h.htm",
+        "note": "Representative cover from the 1925 Waley volume; the analysis uses the Suematsu translation.",
+        "originalImageUrl": "https://www.gutenberg.org/files/66057/66057-h/images/cover.jpg"
+      }
     },
     {
       "title": "The Song of Roland",
@@ -229,7 +265,16 @@ window.PORTFOLIO = {
           "url": "https://sourcebooks.web.fordham.edu/basis/roland-ohag.asp",
           "note": "Background on the 778 attack and its transformation in the poem. Its translation uses different section numbering from Scott-Moncrieff."
         }
-      ]
+      ],
+      "cover": {
+        "src": "assets/books/roland.jpg",
+        "alt": "1919 title page of The Song of Roland, translated by Charles Scott Moncrieff",
+        "label": "The Song of Roland — C. K. Scott-Moncrieff, 1919 title page",
+        "credit": "London: Chapman & Hall, 1919. University of Toronto scan, Internet Archive / Wikimedia Commons. Public domain.",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Song_of_Roland.djvu",
+        "note": "Title page of the historical edition matching the analysis translation.",
+        "originalImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/The_Song_of_Roland.djvu/page9-960px-The_Song_of_Roland.djvu.jpg"
+      }
     },
     {
       "title": "The Mahabharata",
@@ -281,7 +326,16 @@ window.PORTFOLIO = {
           "note": "Primary passage connecting compassion, loyalty, and Dharma."
         }
       ],
-      "status": "draft"
+      "status": "draft",
+      "cover": {
+        "src": "assets/books/mahabharata.jpg",
+        "alt": "Title page of the 1884 Calcutta edition of The Mahabharata, Adi Parva, translated into English prose.",
+        "label": "Ganguli translation · Adi Parva · 1884 title page",
+        "credit": "Published by Protap Chandra Roy, Bharata Press, Calcutta, 1884. Scan via Wikimedia Commons (uploaded by MelAntipam). Public domain.",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cover_page_of_The_Mahabharata_translated_by_K.M._Ganguli_(1883).jpg",
+        "note": "",
+        "originalImageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/76/Cover_page_of_The_Mahabharata_translated_by_K.M._Ganguli_%281883%29.jpg"
+      }
     },
     {
       "title": "The Ramayana",
@@ -328,7 +382,16 @@ window.PORTFOLIO = {
           "note": "Griffith primary-text passage showing Sita's response after the battle."
         }
       ],
-      "status": "draft"
+      "status": "draft",
+      "cover": {
+        "src": "assets/books/ramayana.jpg",
+        "alt": "Title page of the 1895 edition of The Ramayan of Valmiki translated into English verse by Ralph T. H. Griffith.",
+        "label": "Ralph T. H. Griffith translation · 1895 title page",
+        "credit": "The Ramayan of Valmiki, Griffith translation, E. J. Lazarus and Co., Benares, 1895. Internet Archive/California Digital Library scan via Wikimedia Commons; page 7. Public domain.",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Ramayan_of_V%C3%A1lm%C3%ADki_translated_into_English_verse_by_Ralph_T.H._Griffith_.._(IA_ramayanofvlm00valmrich).pdf",
+        "note": "",
+        "originalImageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/The_Ramayan_of_V%C3%A1lm%C3%ADki_translated_into_English_verse_by_Ralph_T.H._Griffith_.._%28IA_ramayanofvlm00valmrich%29.pdf/page7-500px-The_Ramayan_of_V%C3%A1lm%C3%ADki_translated_into_English_verse_by_Ralph_T.H._Griffith_.._%28IA_ramayanofvlm00valmrich%29.pdf.jpg"
+      }
     }
   ],
   "favorite": {

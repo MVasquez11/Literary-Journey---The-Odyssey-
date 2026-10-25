@@ -11,6 +11,7 @@ Open `dist/index.html` in a modern browser. It works directly from the folder, w
 - Homepage and navigation to all five required portfolio sections.
 - Completed student profile with Marnel's photograph, academic details, introduction, reading interests, and course expectations.
 - Seven source-based literary analysis drafts, each with five headed sections, a literary lens, passage references, and source links.
+- Seven credited book images, revealed on card hover or keyboard focus and shown inline on touch screens. Covers and title pages are representative editions; analysis references identify the text actually used.
 - A favorite masterpiece page for *The Odyssey* by Homer, with a sourced overview and thematic background.
 - Four areas for the learning summary and all five personal reflection guide questions.
 - A sources page with primary-text references, artwork credit, and a full uncropped reproduction.
