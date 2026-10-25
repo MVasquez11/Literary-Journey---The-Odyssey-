@@ -1,6 +1,6 @@
 # Content to provide for your literary portfolio
 
-This is **My Literary Journey: A Great Books Digital Portfolio**. Your favorite literary masterpiece is **The Odyssey by Homer**. The student profile is complete, and seven source-based analysis drafts are ready for review. The favorite discussion, learning summary, and personal reflection still need your input.
+This is **My Literary Journey: A Great Books Digital Portfolio**. Your favorite literary masterpiece is **The Odyssey by Homer**. The student profile and favorite discussion are complete, and seven source-based analyses are available. The learning summary and personal reflection still need your input.
 
 ## 1. Student profile
 
@@ -26,7 +26,7 @@ Keep the substance of your original analyses. Organization, grammar, and present
 
 ## 3. My favorite literary masterpiece
 
-For **The Odyssey by Homer**, provide:
+The **Odyssey by Homer** page now contains a full discussion based on your interests and goals. Review these elements when personalizing it further:
 
 - A brief overview in your own words, or review the sourced background in the draft.
 - Your personal reasons for choosing this work.
