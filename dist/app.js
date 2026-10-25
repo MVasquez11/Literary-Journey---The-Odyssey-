@@ -18,7 +18,7 @@
   const paragraphs = text => text.split(/\n\s*\n/).map(p => `<p>${esc(p)}</p>`).join('');
   const pending = '<span class="pending">Awaiting your words</span>';
   const textOrPlaceholder = (text, prompt) => text.trim() ? `<div class="prose">${paragraphs(text)}</div>` : `<div class="placeholder">${pending}<p>${esc(prompt)}</p></div>`;
-  const draftNote = '<div class="draft-note"><strong>A portfolio in the making.</strong> Personal details and original coursework will be added after the design is finalized.</div>';
+  const draftNote = '<div class="draft-note"><strong>A portfolio in the making.</strong> Original coursework and personal reflections will be added as they are completed.</div>';
   const artworkCredit = 'John William Waterhouse, Ulysses and the Sirens, 1891. National Gallery of Victoria, Melbourne. Public domain. Photo: NGV.';
   const artwork = (extra = '') => `<figure class="hero-art ${extra}"><div class="art-mat"><img src="assets/ulysses-and-the-sirens.jpg" alt="Waterhouse’s painting of Odysseus bound to the mast while his crew row past the Sirens." width="1920" height="965"></div><figcaption class="art-caption">John William Waterhouse · <em>Ulysses and the Sirens</em>, 1891<br>National Gallery of Victoria, Melbourne · Public domain · <a href="#sources">Artwork credit ↗</a></figcaption></figure>`;
   const breadcrumb = (label, parent = '') => `<div class="breadcrumb"><a href="#home">THE JOURNEY</a><span aria-hidden="true">/</span>${parent ? `<a href="#analyses">LITERARY ANALYSES</a><span aria-hidden="true">/</span>` : ''}<span>${esc(label)}</span></div>`;
