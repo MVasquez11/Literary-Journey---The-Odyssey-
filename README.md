@@ -9,8 +9,8 @@ Open `dist/index.html` in a modern browser. It works directly from the folder, w
 ## What's included
 
 - Homepage and navigation to all five required portfolio sections.
-- Student profile with spaces for a photograph, academic details, introduction, reading interests, and course expectations.
-- Seven separate literary analysis cards, each opening into a complete reading view.
+- Completed student profile with Marnel's photograph, academic details, introduction, reading interests, and course expectations.
+- Seven source-based literary analysis drafts, each with five headed sections, a literary lens, passage references, and source links.
 - A favorite masterpiece page for *The Odyssey* by Homer, with a sourced overview and thematic background.
 - Four areas for the learning summary and all five personal reflection guide questions.
 - A sources page with primary-text references, artwork credit, and a full uncropped reproduction.
@@ -18,15 +18,15 @@ Open `dist/index.html` in a modern browser. It works directly from the folder, w
 
 ## Add personal content later
 
-The design intentionally leaves authentic personal responses and previous coursework pending. No student identity, personal experience, or original course analysis has been invented.
+The profile uses the student's supplied details and photograph. The seven literary analyses are new drafts prepared with AI writing assistance, clearly labeled for review against the student's prior course outputs and assigned editions. The personal favorite discussion, learning summary, and reflection remain pending.
 
-Use `CONTENT-GUIDE.md` to gather the information. To add it directly, edit the plain-text values in `dist/content.js`; blank values display the existing prompts. Separate paragraphs with two newline characters (`\n\n`). Each analysis has its own title, author (when applicable), lens, and full text. Put a student photo in `dist/assets/` and set the photo field to its relative path, for example `assets/student-photo.jpg`.
+Use `CONTENT-GUIDE.md` to gather remaining information. Edit plain-text values in `dist/content.js`; blank values display prompts. Separate paragraphs with two newline characters (`\n\n`). Each analysis has a title, attribution, lens, summary, headed `sections`, and `references`. A legacy `text` field is also supported for a plain essay. The supplied student photograph is included in `dist/assets/`.
 
 The favorite work is set to *The Odyssey* by Homer. Its factual background is separate from the student's pending personal reasons and connections. The seven course analyses remain independent works and are not assumed to be seven Odyssey chapters.
 
 ## Before submission
 
-This is a design draft. Complete the student content, review the original analyses, acknowledge any additional sources, and check every page. The hosted preview starts private. Grant the instructor permission or choose appropriate sharing before submitting the link to the course assignment.
+Complete the remaining personal sections, review the analysis drafts, acknowledge any additional sources, and check every page. Genji is limited to the first seventeen chapters in the cited translation. The hosted site is private. Arrange instructor access before submitting the link to the course assignment.
 
 ## Credits
 

@@ -1,6 +1,6 @@
 # Content to provide for your literary portfolio
 
-This is a design draft of **My Literary Journey: A Great Books Digital Portfolio**. Your favorite literary masterpiece is **The Odyssey by Homer**. The marked spaces are waiting for your own information, course outputs, and personal writing.
+This is **My Literary Journey: A Great Books Digital Portfolio**. Your favorite literary masterpiece is **The Odyssey by Homer**. The student profile is complete, and seven source-based analysis drafts are ready for review. The favorite discussion, learning summary, and personal reflection still need your input.
 
 ## 1. Student profile
 
@@ -12,15 +12,15 @@ This is a design draft of **My Literary Journey: A Great Books Digital Portfolio
 
 ## 2. Seven literary analyses
 
-Provide the **seven analyses you completed during the course**. They do not all need to be about The Odyssey. For each item below, send the work's title, author (if applicable), literary lens, and complete analysis text. You may also include a relevant image and its source.
+Seven newly written drafts are included below. Review them against your previous class outputs and assigned editions: the assignment calls for the analyses completed during the course. Each draft includes five headed sections, specific passage references, and credited sources. Images are optional.
 
-1. Analysis 1: title, author, lens, complete text.
-2. Analysis 2: title, author, lens, complete text.
-3. Analysis 3: title, author, lens, complete text.
-4. Analysis 4: title, author, lens, complete text.
-5. Analysis 5: title, author, lens, complete text.
-6. Analysis 6: title, author, lens, complete text.
-7. Analysis 7: title, author, lens, complete text.
+1. The Odyssey — moral / philosophical.
+2. The Iliad — psychological.
+3. Psalms 23 & 91 — formalist / comparative (one paired entry).
+4. The Tale of Genji — feminist; first seventeen chapters of the cited translation.
+5. The Song of Roland — historical.
+6. The Mahabharata — moral / philosophical.
+7. The Ramayana — archetypal.
 
 Keep the substance of your original analyses. Organization, grammar, and presentation can be improved when the content is added.
 
