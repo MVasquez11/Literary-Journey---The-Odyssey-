@@ -92,7 +92,7 @@
       ['What stories reveal about us','What important realizations about life, society, culture, or human nature have you gained?',r.realizations,'Share the realizations that matter to you and explain how the readings helped shape them.'],
       ['Carrying the lessons forward','How can you apply the lessons and values learned from Great Books in your personal, academic, or future professional life?',r.application,'Describe concrete ways these lessons may guide your choices beyond the course.']
     ];
-    return `<div class="wrap">${pageHead(chapters[4], 'Beyond the<br>final <em>page.</em>', 'A personal reflection on growth, challenges, and the ideas that travel with us beyond the classroom.')}<div class="prompt-layout"><aside class="aside-note"><span class="big-number">05</span><h2>Pause. Look back.</h2></aside><div>${prompts.map((p,i)=>`<section class="prompt-item"><span class="question-number">REFLECTION ${number(i+1)}</span><h2>${p[0]}</h2>${textOrPlaceholder(p[2],p[3])}</section>`).join('')}</div></div>${pageTurn(4)}</div>`;
+    return `<div class="wrap">${pageHead(chapters[4], 'Beyond the<br>final <em>page.</em>', 'A personal reflection on growth, challenges, and the ideas that guide us in the real world.')}<div class="prompt-layout"><aside class="aside-note"><span class="big-number">05</span><h2>Pause. Look back.</h2></aside><div>${prompts.map((p,i)=>`<section class="prompt-item"><span class="question-number">REFLECTION ${number(i+1)}</span><h2>${p[0]}</h2>${textOrPlaceholder(p[2],p[3])}</section>`).join('')}</div></div>${pageTurn(4)}</div>`;
   }
 
   function sources() {
