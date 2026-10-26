@@ -1,6 +1,6 @@
-# Content to provide for your literary portfolio
+# Content in your literary portfolio
 
-This is **My Literary Journey: A Great Books Digital Portfolio**. Your favorite literary masterpiece is **The Odyssey by Homer**. The student profile, favorite discussion, and learning summary are complete, and seven source-based analyses are available. The personal reflection still needs your input.
+This is **My Literary Journey: A Great Books Digital Portfolio**. Your favorite literary masterpiece is **The Odyssey by Homer**. The student profile, favorite discussion, learning summary, and personal reflection are complete, and seven source-based analyses are available.
 
 ## 1. Student profile
 
@@ -40,7 +40,7 @@ The learning summary now covers historical and cultural understanding, literary 
 
 ## 5. Personal reflection
 
-Use your own experiences to answer these five questions:
+The personal reflection now addresses these five questions, connecting the student’s interests, the readings, and future goals:
 
 1. How has your understanding and appreciation of literature changed during the course?
 2. What challenges did you face when reading and analyzing the works, and how did you overcome them?
@@ -50,7 +50,7 @@ Use your own experiences to answer these five questions:
 
 ## Before submission
 
-- Replace all pending-content labels and review every section.
+- Review every section and personalize any passages with additional experiences you want to include.
 - Check that all seven complete analyses can be opened and read.
 - Acknowledge quotations, images, and other external material.
 - Confirm that the instructor has permission to view the published website and any linked materials. A private design link alone is not sufficient for instructor access.
