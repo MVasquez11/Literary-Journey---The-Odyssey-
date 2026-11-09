@@ -1,5 +1,7 @@
 # My Literary Journey — The Odyssey
 
+GREAT BOOKS FINAL PROJECT: MY LITERARY JOURNEY – A DIGITAL WEBSITE PORTFOLIO
+
 A responsive Great Books portfolio design inspired by Homer's *The Odyssey*.
 
 ## Open the portfolio
